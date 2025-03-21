@@ -1,0 +1,1 @@
+java -jar AdvJava-0.1.0-DEMO.jar
